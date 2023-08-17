@@ -29,8 +29,13 @@ const questions = [
   {
     type: "list",
     message: "Choose the following license",
-    choices: ["MIT", "IBM", "Apache", "No License"],
+    choices: ["MIT", "IBM", "Apache", "No-License"],
     name: "license",
+  },
+  {
+    type: "editor",
+    message: "Write your installation instructions",
+    name: "installation",
   },
   {
     type: "input",
