@@ -19,6 +19,8 @@
 
   
   ## Usage
+
+  <a href="https://juliobermudez.github.io/profesional-readme-generator/">Link to Readme Generator</a>
   
   ![profesional-readme-generator](assets/images/screenshot.png)
   
