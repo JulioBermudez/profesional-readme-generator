@@ -91,7 +91,7 @@ function generateMarkdown(data) {
   
   ## Usage
   
-  ![Project-Name](assets/images/screenshot.png)
+  ![${data.title}](assets/images/screenshot.png)
   
 
   ${renderLicenseSection(data.license)}
